@@ -1,4 +1,4 @@
-#<font color="blue">JAVAについて</font>
+#JAVAについて
 ![java](http://guide2office.com/wp-content/uploads/2010/06/java.png)
 <br>
 <br>
@@ -6,6 +6,7 @@
 - JAVAでは、なにができるのか
 - Java scriptの機能について
 - Javascriptとjavaの関係
+- Javascript学習ツールについて
 
 ##JAVAでは、なにができるのか
 <br>

@@ -4,7 +4,7 @@
 <br>
 ##目次
 - JAVAでは、なにができるのか
-- Java scriptの機能
+- Java scriptの関数
 - Javascriptとjavaの関係
 - Javascript学習ツールについて
 
@@ -48,7 +48,7 @@
 <br>
 <br>
 
-##Java scriptの機能
+##Java scriptの関数
 
 JavaScriptは開発環境の準備がほぼ不要で、コピー＆ペーストだけで、動くものができてしまいます。
 

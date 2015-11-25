@@ -31,7 +31,6 @@
 <br>
 <br>
 ###利点(できること)
-![win](http://keyboard-leds.com/images/icon-windows.png)![lin](http://dwimperl.com/img/alien/linux-logo.png)![MAC](http://www.openlierox.net/official/images/macosx.png)
 <br>
 OSに依存しない(Cは依存する。)
 
@@ -52,7 +51,7 @@ OSに依存しない(Cは依存する。)
 JavaScriptは開発環境の準備がほぼ不要で、コピー＆ペーストだけで、動くものができてしまいます。
 他の言語だとそう簡単にはいきません。サイトを構築する上で使用頻度が高く、何度も調べてしまうものをリスト化してまとめました。
 
->タイマー
+>タイマー/[一定時間で繰り返す(setTimeout)][timer]:http://www.pori2.net/js/timer/2.html
 >
 >
 >

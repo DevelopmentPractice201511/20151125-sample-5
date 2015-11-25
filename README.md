@@ -1,10 +1,15 @@
-#JAVAscriptについて
+#<font color="blue">JAVAについて</font>
+![java](http://guide2office.com/wp-content/uploads/2010/06/java.png)
 <br>
 <br>
+##目次
+- JAVAでは、なにができるのか
+- Java scriptの機能について
+- Javascriptとjavaの関係
 
-###JAVAでは、なにができるのか
+##JAVAでは、なにができるのか
 <br>
-1.プログラムは何ができるのか?
+1.プログラムは何ができるのか?<br>
 2.Javaだけにできることは何か?
 <br>
 <br>
@@ -38,10 +43,3 @@ OSに依存しない(Cは依存する。)
 単純なことにも大げさになりがち(PerlやRubyのシンプルさには負ける→webアプリケーション開発では致命的)
 
 遅い(最速化されたC++に勝てない)
-
-
-
-
-
-
-真暁これは消してもかまいません

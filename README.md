@@ -2,7 +2,7 @@
 ![java](http://guide2office.com/wp-content/uploads/2010/06/java.png)
 <br>
 <br>
-##目次
+##目
 - JAVAでは、なにができるのか
 - Java scriptの機能について
 - Javascriptとjavaの関係

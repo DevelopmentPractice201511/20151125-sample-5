@@ -31,6 +31,7 @@
 <br>
 <br>
 ###利点(できること)
+![win](http://keyboard-leds.com/images/icon-windows.png)![lin](http://dwimperl.com/img/alien/linux-logo.png)![MAC](http://www.openlierox.net/official/images/macosx.png)
 <br>
 OSに依存しない(Cは依存する。)
 

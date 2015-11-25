@@ -69,6 +69,8 @@ JavaScriptは開発環境の準備がほぼ不要で、コピー＆ペースト�
 
 簡単な機能を使ったゲーム⇒http://www13.plala.or.jp/goodlife/hima1.htm
 
+5・6年生にもわかるやさしいJavascript⇒http://www.sky.sannet.ne.jp/masapine/java_top.html
+
 <br>
 <br>
 

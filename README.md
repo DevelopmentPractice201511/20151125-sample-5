@@ -33,11 +33,11 @@
 ###利点(できること)
 ![MAC](http://www.openlierox.net/official/images/macosx.png)![WIN](http://keyboard-leds.com/images/icon-windows.png)![LIN](http://dwimperl.com/img/alien/linux-logo.png)
 <br>
-OSに依存しない(Cは依存する。)
+- OSに依存しない(Cは依存する。)
 
-安全である。(ただしく書けば、｢悪いこと｣ができない)
+- 安全である。(ただしく書けば、｢悪いこと｣ができない)
 
-みんな使っている
+- みんな使っている
 <br>
 <br>
 ###欠点(不向き)

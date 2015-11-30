@@ -51,6 +51,7 @@
 
 #JavaScriptとJavaの関係
 *JavaScriptはHTMLファイル内に直接記述することができる
+
 *JavaScriptはJavaと完全に異なるプログラミング言語
 <br><br>
 

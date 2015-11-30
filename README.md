@@ -90,7 +90,7 @@ Flashなどと違ってJavaScriptを使うのに、ブラウザにプラグイ�
 JavaScriptは開発環境の準備がほぼ不要で、コピー＆ペーストだけで、動くものができてしまいます。
 
 他の言語だとそう簡単にはいきません。
-
+<br>
 >タイマー/[一定時間で繰り返す(setTimeout)][timer]
 [timer]:http://www.pori2.net/js/timer/2.html
 >カウントダウン/[コピペでサクッと導入できるJavascriptカウントダウン][count]
@@ -102,6 +102,7 @@ JavaScriptは開発環境の準備がほぼ不要で、コピー＆ペースト�
 >入力チェック/[JavaScriptで入力文字チェック][ny]
 [ny]:http://silverzwei.sakura.ne.jp/content/javascript/js/content001.php
 
+<br>
 機能を使う際のコマンド一覧⇒http://commte.net/blog/archives/3996
 
 簡単な機能を使ったゲーム⇒http://www13.plala.or.jp/goodlife/hima1.htm

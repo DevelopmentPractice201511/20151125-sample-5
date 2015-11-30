@@ -86,10 +86,11 @@ Flashなどと違ってJavaScriptを使うのに、ブラウザにプラグイ�
 <br>
 
 ##Java scriptの関数
-
+<br>
 JavaScriptは開発環境の準備がほぼ不要で、コピー＆ペーストだけで、動くものができてしまいます。
 
 他の言語だとそう簡単にはいきません。
+<br>
 <br>
 >タイマー/[一定時間で繰り返す(setTimeout)][timer]
 [timer]:http://www.pori2.net/js/timer/2.html

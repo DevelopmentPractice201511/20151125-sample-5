@@ -48,6 +48,33 @@
 
 <br>
 <br>
+##Java scriptの関数
+<br>
+JavaScriptは開発環境の準備がほぼ不要で、コピー＆ペーストだけで、動くものができてしまいます。
+
+他の言語だとそう簡単にはいきません。
+<br>
+<br>
+>タイマー/[一定時間で繰り返す(setTimeout)][timer]
+[timer]:http://www.pori2.net/js/timer/2.html
+>カウントダウン/[コピペでサクッと導入できるJavascriptカウントダウン][count]
+[count]:http://plusblog.jp/3719/
+>画像表示/[画像をランダムに表示する][picture]
+[picture]:http://javascript.eweb-design.com/0804_ri.html
+>カレンダー/[JavaScript: カレンダー][ca]
+[ca]:http://amenti.usamimi.info/calendar.html
+>入力チェック/[JavaScriptで入力文字チェック][ny]
+[ny]:http://silverzwei.sakura.ne.jp/content/javascript/js/content001.php
+
+<br>
+機能を使う際のコマンド一覧⇒http://commte.net/blog/archives/3996
+
+簡単な機能を使ったゲーム⇒http://www13.plala.or.jp/goodlife/hima1.htm
+
+5・6年生にもわかるやさしいJavascript⇒http://www.sky.sannet.ne.jp/masapine/java_top.html
+
+<br>
+<br>
 
 #JavaScriptとJavaの関係
 - JavaScriptはHTMLファイル内に直接記述することができる
@@ -78,29 +105,4 @@
 - *プラグインがいらない*<br>
 
 <br>
-<br>
 
-##Java scriptの関数
-<br>
-JavaScriptは開発環境の準備がほぼ不要で、コピー＆ペーストだけで、動くものができてしまいます。
-
-他の言語だとそう簡単にはいきません。
-<br>
-<br>
->タイマー/[一定時間で繰り返す(setTimeout)][timer]
-[timer]:http://www.pori2.net/js/timer/2.html
->カウントダウン/[コピペでサクッと導入できるJavascriptカウントダウン][count]
-[count]:http://plusblog.jp/3719/
->画像表示/[画像をランダムに表示する][picture]
-[picture]:http://javascript.eweb-design.com/0804_ri.html
->カレンダー/[JavaScript: カレンダー][ca]
-[ca]:http://amenti.usamimi.info/calendar.html
->入力チェック/[JavaScriptで入力文字チェック][ny]
-[ny]:http://silverzwei.sakura.ne.jp/content/javascript/js/content001.php
-
-<br>
-機能を使う際のコマンド一覧⇒http://commte.net/blog/archives/3996
-
-簡単な機能を使ったゲーム⇒http://www13.plala.or.jp/goodlife/hima1.htm
-
-5・6年生にもわかるやさしいJavascript⇒http://www.sky.sannet.ne.jp/masapine/java_top.html
